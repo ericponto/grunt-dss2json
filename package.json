@@ -2,23 +2,22 @@
   "name": "grunt-dss2json",
   "description": "Runs DSS over a set of files and builds a JSON file as output.",
   "version": "0.1.0",
-  "homepage": "https://github.com/ubuntu/workspace",
+  "homepage": "https://github.com/ericponto/grunt-dss2json",
   "author": {
     "name": "Eric Ponto",
-    "email": "eric.ponto@gmail.com",
     "url": "http://www.ericponto.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ubuntu/workspace.git"
+    "url": "https://github.com/ericponto/grunt-dss2json"
   },
   "bugs": {
-    "url": "https://github.com/ubuntu/workspace/issues"
+    "url": "https://github.com/ericponto/grunt-dss2json/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/ubuntu/workspace/blob/master/LICENSE-MIT"
+      "url": "https://github.com/ericponto/grunt-dss2json/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
@@ -38,6 +37,7 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "DSS"
   ]
 }
