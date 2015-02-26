@@ -1,0 +1,12 @@
+{
+	"blocks": [
+		{
+			"name": "Test",
+			"description": "This is a test",
+			"markup": {
+				"example": "<div>Test</div>",
+				"escaped": "&lt;div&gt;Test&lt;/div&gt;"
+			}
+		}
+	]
+}
